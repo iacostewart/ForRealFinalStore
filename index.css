@@ -1,0 +1,204 @@
+
+body {
+max-height:  1200px;
+margin: 0;
+padding: 0; 
+color: white;   
+}
+
+.bg {
+    color: white;
+    width:;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1820x;
+}
+#hidden {
+  height: 0;
+  position: relative;
+  left: 25%;
+}
+
+.imaghead a:click ~ {
+    height: 280px;
+
+    
+}
+.imghead {
+    height: 140px;
+    width: 640px;
+    overflow: visible;
+    z-index: -1;
+    
+}
+
+
+#nav li {
+    
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+.bg a:hover {
+      
+}
+/*https://i.lensdump.com/i/PV7P2.png, https://i.lensdump.com/i/firox.png,*/
+.bg {
+    background-image: url(https://i.lensdump.com/i/fiRQ1.png);
+    position: relative;
+    
+}
+.login {
+    margin
+    float: right;
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    }
+.login li {
+    
+    display: inline-block;
+   }
+
+#dark li a,   
+#nav li a {
+    padding: 5px;
+    text-decoration: none;
+}
+
+#dark {
+    text-transform: none;
+    float: left;
+}
+#dark li {
+    display: inline-block;
+    margin: 0;
+
+}
+header {
+  height: 150px;  
+}
+
+ #nav {
+    padding: 0; 
+    
+    float: right;
+    
+     
+ 
+ }
+#dark a:link,
+#dark a:visited {
+color: white;
+padding: 20px 10px 4px 10px;
+
+background: #000000;
+text-transform: uppercase;
+text-shadow: 4px 4px 4px #555;
+}
+
+
+#nav a:link,
+#nav a:visited {
+color: white;
+padding: 20px 40px 4px 10px;
+
+background: #000000;
+text-transform: uppercase;
+text-shadow: 4px 4px 4px #555;
+
+} 
+#dark a:hover,
+#dark a:focus,
+ #nav a:hover,
+ #nav a:focus {
+     color: rgba(40, 248, 3, 0.329);
+     
+
+ }
+
+ .foot-container-right {
+     display: absolute;
+     margin: 10% 0 0 0;
+     top: 90%;
+    }
+
+
+ h1 {
+     color: white;
+
+ }
+.footimg {
+    padding: 2% 10% 2% 10%;
+    display: inline-block;
+    
+}
+
+.content-left {
+    width: 30%
+}
+
+.foot-container-right {
+    display: flex;
+    align-content: center;
+    
+}
+
+
+
+.footer {
+    display: flex;
+    align-content: center;
+}
+#foot li {
+
+    display: inline-block;
+    margin: 0;
+}
+
+#foot li a {
+    padding: 5px;
+    text-decoration: none;
+    justify-content: center;
+}
+
+#foot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#foot a:link,
+#foot a:visited {
+    color: white;
+padding: 20px 10px 4px 10px;
+
+background: #000000;
+text-transform: uppercase;
+text-shadow: 4px 4px 4px #555;
+}
+
+#foot a:hover,
+#foot a:focus {
+    color: rgba(40, 248, 3, 0.329);
+}
+
+
+
+
+/*<div class="foot-container-right">
+        <div class="footer">
+            
+            <ul id="footerright">
+                <li><a href="#">about</a></li>
+                <li><a href="#">home</a></li>
+                <li><a href="#">contact</a></li>
+                <li><a href="">Darkness</a></li>
+                <li><a href="#"></a></li>
+
+            </ul>
+        </div>
+</div>
+*/
