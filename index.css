@@ -8,7 +8,7 @@ color: white;
 
 .bg {
     color: white;
-    width:;
+   
     margin: 0;
     padding: 0;
     background-size: cover;
@@ -41,9 +41,7 @@ color: white;
     padding: 0;
     margin: 0;
 }
-.bg a:hover {
-      
-}
+
 /*https://i.lensdump.com/i/PV7P2.png, https://i.lensdump.com/i/firox.png,*/
 .bg {
     background-image: url(https://i.lensdump.com/i/fiRQ1.png);
@@ -51,8 +49,8 @@ color: white;
     
 }
 .login {
-    margin
-    float: right;
+   
+   
     text-decoration: none;
     list-style: none;
     display: inline-block;
@@ -133,6 +131,8 @@ text-shadow: 4px 4px 4px #555;
 .footimg {
     padding: 2% 10% 2% 10%;
     display: inline-block;
+    position: relative;
+    margin: 0 0 0 5%;
     
 }
 
